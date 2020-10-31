@@ -5,3 +5,7 @@ Hello, I'm Gabriel and I really love ☕, life science and programming. Thus, I'
 - 🔭 I’m currently working on Java, Java Web, HTML, CSS and SQ
 - 🌱 I’m currently learning Spring Boot, AWS, Machine Learning
 
+### How to contact me: 📫
+- You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielm/) 📱
+
+- If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
