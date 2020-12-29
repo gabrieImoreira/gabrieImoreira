@@ -10,9 +10,7 @@ Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a ma
 
 - If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
 
-<center>
     <h2>“You can’t wait for inspiration. You have to go after it with a club.” — Jack London</h2>
-</center>
 
 <center>
 <table>
