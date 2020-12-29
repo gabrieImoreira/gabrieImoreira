@@ -9,3 +9,13 @@ Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a ma
 - You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielm/) 📱
 
 - If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
+
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gams99&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gams99&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
