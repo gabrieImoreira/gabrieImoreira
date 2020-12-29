@@ -1,15 +1,18 @@
 ### Hi, I'm Gabriel 👋
 
-Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a machine learning enthusiast. Thus, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with sh1t code made by me, I'm playing video games, drawing, listening to 🎶 and podcasts about tech.
+Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a machine learning enthusiast. Then, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with shit code made by me, I'm playing video games, reading, listening to 🎶 and podcasts about tech.
 
-- 🔭 I’m currently working on Java, Spring Boot, Java Web and SQL
-- 🌱 I’m currently learning Machine Learning, JavaScript, React (Bootcamp IGTI)
+- 🔭 I’m currently working with AI, Python and RPA
+- 🌱 and all the time I’m learning about Machine Learning and Deep Learning.
 
 ### How to contact me: 📫
 - You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielm/) 📱
 
 - If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
 
+<center>
+    <h2>“You can’t wait for inspiration. You have to go after it with a club.” — Jack London</h2>
+</center>
 
 <center>
 <table>
