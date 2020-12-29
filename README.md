@@ -19,3 +19,4 @@ Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a ma
     </tr>   
 </table>
 </center>  
+![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
