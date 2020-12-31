@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel 👋
 
-Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a machine learning enthusiast. Then, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with shit code made by me, I'm playing video games, reading, listening to 🎶 and podcasts about tech.
+Hello, I'm Gabriel and I really love ☕, life science, programming and I'm a machine learning enthusiast. Then, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with shit code made by me, I'm playing video games, reading, listening 🎶 and podcasts about tech.
 
 - 🔭 I’m currently working with AI, Python and RPA
 - 🌱 and all the time I’m learning about Machine Learning and Deep Learning.
