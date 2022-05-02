@@ -10,7 +10,7 @@ Hello, I'm Gabriel and I really love ☕, life science, Java, programming and I'
 
 - If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
 
-    <h2>“You can’t wait for inspiration. You have to go after it with a club.” — Jack London</h2>
+    <h2>“Seek discomfort - You don't grow when you're comfortable."</h2>
 
 <center>
 <table>
