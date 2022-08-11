@@ -2,7 +2,7 @@
 
 Hello, I'm Gabriel and I really love ☕, life science, Java, programming and I'm a machine learning enthusiast. Then, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with shit code made by me, I'm playing video games, reading, listening 🎶 and podcasts about tech.
 
-- 🔭 I’m currently working with RPA, studying Software Engineering at 42 School and Electrical Engineering at Universidade São Judas Tadeu. 
+- 🔭 I’m currently working with Python focused on RPA, studying Software Engineering at 42 School and Electrical Engineering at Universidade São Judas Tadeu. 
 - 🌱 and all the time I’m learning about Python, Robot Framework, Automations, API Rest, C and C++.
 
 ### How to contact me: 📫
