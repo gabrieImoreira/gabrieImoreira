@@ -6,7 +6,7 @@ Hello, I'm Gabriel and I really love ☕, life science, Java, programming and I'
 - 🌱 and all the time I’m learning about Python, Robot Framework, Automations, API Rest, C and C++.
 
 ### How to contact me: 📫
-- You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielm/) 📱
+- You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielmoreira/ 📱
 
 - If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
 
