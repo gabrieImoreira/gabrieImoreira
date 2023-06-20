@@ -11,7 +11,7 @@ I am a continuously improving backend developer with a passion for Python, autom
 - Automation Tools: Automation Anywhere, UiPath, OpenRPA, Power Automate, Robot Framework
 - CI/CD: Jenkins, Azure Pipelines
 - Web Scraping: Python-based web scraping tools
-- Databases: MySQL, PostgreSQL, SQLite
+- Databases: MySQL, PostgreSQL, SQLite, MongoDB
 - DevOps: Docker, Kubernetes, Git, Jenkins
 - Machine Learning: Currently studying and exploring machine learning techniques
 
