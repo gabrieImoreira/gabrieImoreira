@@ -24,7 +24,7 @@ I am a continuously improving backend developer with a passion for Python, autom
 
 Feel free to reach out to me for any collaborations, opportunities, or just to say hello!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ga-brielmoreira/)
+- LinkedIn: [Gabriel Moreira](https://www.linkedin.com/in/ga-brielmoreira/)
 - Email: gabriel.antonioms@gmail.com
 
 I am excited about the possibilities that lie ahead and look forward to contributing to the success of your team and organization. Let's connect and create something amazing together! 😄🚀
