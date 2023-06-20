@@ -1,14 +1,33 @@
-### Hi, I'm Gabriel 👋
+## Hi there! 👋
 
-Hello, I'm Gabriel and I really love ☕, life science, Python, programming and I'm a machine learning enthusiast. Then, I'm trying to put this all together and solve problems, creat products and do science. When I'm not brewing my coffee or getting mad with shit code made by me, I'm playing video games, reading, listening 🎶 and podcasts about tech.
+### About Me
 
-- 🔭 I’m currently working with Python focused on RPA, studying Software Engineering at 42 School and Electrical Engineering at Universidade São Judas Tadeu. 
-- 🌱 and all the time I’m learning about Python, Robot Framework, Automations, API Rest and C.
+I am a continuously improving backend developer with a passion for Python, automation, ETL, and a strong interest in DevOps. Currently, I work at Prime and I'm always seeking new challenges and exceptional results.
 
-### How to contact me: 📫
-- You can found me at [LinkedIn](https://www.linkedin.com/in/ga-brielmoreira/) 📱
+### Skills and Expertise
 
-- If you prefer, that's my ✉️ gabriel.antonioms@gmail.com
+- Programming Languages: Python, VBScript, VBA, C
+- Frameworks and Libraries: Flask, Robot Framework, Selenium, Robot Framework, BeautifulSoap, Pandas, Numpy, etc.
+- Automation Tools: Automation Anywhere, UiPath, OpenRPA, Power Automate, Robot Framework
+- CI/CD: Jenkins, Azure Pipelines
+- Web Scraping: Python-based web scraping tools
+- Databases: MySQL, PostgreSQL, SQLite
+- DevOps: Docker, Kubernetes, Git, Jenkins
+- Machine Learning: Currently studying and exploring machine learning techniques
+
+### Education
+
+- Technical Degree in Electronics from ETEC
+- Bachelor's Degree in Electrical Engineering from USJT
+
+### Contact Me
+
+Feel free to reach out to me for any collaborations, opportunities, or just to say hello!
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ga-brielmoreira/)
+- Email: gabriel.antonioms@gmail.com
+
+I am excited about the possibilities that lie ahead and look forward to contributing to the success of your team and organization. Let's connect and create something amazing together! 😄🚀
 
     <h2>“Seek discomfort - You don't grow when you're comfortable."</h2>
 
