@@ -14,14 +14,10 @@ I am a continuously improving backend developer with a passion for Python, autom
 - DevOps: Docker, Kubernetes, Git, Jenkins
 - Machine Learning: Currently studying and exploring machine learning techniques
 - 
-### Contact Me
-
-Feel free to reach out to me for any collaborations, opportunities, or just to say hello!
+### Contacts
 
 - LinkedIn: [Gabriel Moreira](https://www.linkedin.com/in/ga-brielmoreira/)
 - Email: gabriel.antonioms@gmail.com
-
-I am excited about the possibilities that lie ahead and look forward to contributing to the success of your team and organization. Let's connect and create something amazing together! 😄🚀
 
     <h2>“Seek discomfort - You don't grow when you're comfortable."</h2>
 
