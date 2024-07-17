@@ -1,4 +1,3 @@
-## Hi there! 👋
 
 ### About Me
 
@@ -14,12 +13,7 @@ I am a continuously improving backend developer with a passion for Python, autom
 - Databases: MySQL, PostgreSQL, SQLite, MongoDB
 - DevOps: Docker, Kubernetes, Git, Jenkins
 - Machine Learning: Currently studying and exploring machine learning techniques
-
-### Education
-
-- Technical Degree in Electronics from ETEC
-- Bachelor's Degree in Electrical Engineering from USJT
-
+- 
 ### Contact Me
 
 Feel free to reach out to me for any collaborations, opportunities, or just to say hello!
